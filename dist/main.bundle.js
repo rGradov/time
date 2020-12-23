@@ -1,0 +1,1 @@
+(()=>{var e=document.createElement("h1");e.textContent="заголовок",document.querySelector("#root").append(e)})();
